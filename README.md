@@ -5,7 +5,7 @@ List of porn sites on the world
 
 This repository contains lists of porn sites in JSON.
 
-Currently lists of site, scrapping from [theporndude.com](http://theporndude.com/) and [theporndude.com](http://mypornbible.com/)
+Currently lists of site, scrapping from [xxxindia.org](http://xxxindia.org/) and [xxxindia.org](http://xxxindia.org/)
 
 I create this repo, because i want to list all (top) porn site, we when user submit link to your site, you cant check and prevent
 
